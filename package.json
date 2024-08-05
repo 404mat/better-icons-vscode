@@ -46,6 +46,11 @@
 				"id": "moxer-icons",
 				"label": "Moxer Icons",
 				"path": "./build/moxer-icons.json"
+			},
+			{
+				"id": "moxer-icons-grayscale",
+				"label": "Moxer Icons (Grayscale)",
+				"path": "./build/moxer-icons-grayscale.json"
 			}
 		]
 	},
@@ -54,7 +59,7 @@
 		"precommit": "run-s lint",
 		"prebuild": "rm -rf build && tsc src/index.ts && run-s copy:icons",
 		"build": "node src/index.js",
-		"copy:icons": "mkdir -p build/svgs && cp -R src/svgs build",
+		"copy:icons": "mkdir -p build/svgs && cp -R src/svgs build && mkdir -p build/svgs-grayscale && cp -R src/svgs-grayscale build",
 		"release": "git pull && standard-version --release-as patch && git push --follow-tags",
 		"release:minor": "git pull && standard-version --release-as minor && git push --follow-tags",
 		"release:major": "git pull && standard-version --release-as major && git push --follow-tags"
