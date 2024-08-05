@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="mdx">
+        <g id="Group">
+            <path id="Path-2" serif:id="Path 2" d="M0.001,11.141L0.821,11.141L0.821,8.396L2.401,10.115L3.858,8.396L3.858,11.106L4.773,11.106L4.773,6L2.315,8.594L0,6.151L0.001,11.141Z" style="fill:rgb(116,116,116);"/>
+            <path id="Path-3" serif:id="Path 3" d="M5.921,8.947L6.545,8.288L7.706,9.514L7.706,6L8.55,6L8.55,9.486L9.691,8.282L10.322,8.948L8.121,11.337L5.921,8.947Z" style="fill:rgb(116,116,116);"/>
+            <path id="Path-4" serif:id="Path 4" d="M11.053,10.602L11.624,11.205L13.433,9.296L15.115,11.205L15.716,10.505L13.946,8.637L15.836,6.641L15.229,6L13.385,7.947L11.566,6L10.996,6.641L12.74,8.637L11.053,10.602Z" style="fill:rgb(201,201,201);"/>
+        </g>
+    </g>
+</svg>

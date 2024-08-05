@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="handlebars">
+        <path id="file_type_mustache" d="M3.293,8.317C3.323,8.236 3.309,8.146 3.258,8.076C3.207,8.007 3.124,7.967 3.037,7.972C2.771,7.993 2.587,8.562 3.152,8.751C3.616,8.906 3.955,8.547 4.49,7.993C5.686,6.755 7.131,6.635 8.011,7.885C8.374,7.2 9.805,6.058 11.987,8.426C12.789,9.297 13.507,8.478 13.112,8.029C13.028,7.949 12.898,7.945 12.808,8.018C12.719,8.092 12.698,8.22 12.76,8.318L12.726,8.318C11.907,7.57 13.619,6.875 13.959,8.138C14.309,10.038 12.355,10.346 10.79,9.655C7.765,8.102 7.733,8.519 4.805,9.799C3.999,10.145 3.071,10.04 2.364,9.523C1.836,9.004 1.869,7.771 2.554,7.522C3.253,7.235 3.844,7.851 3.293,8.317Z" style="fill:rgb(183,183,183);"/>
+    </g>
+</svg>

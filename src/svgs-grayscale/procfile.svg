@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="procfile">
+        <g id="heroku">
+            <path id="Shape" d="M3.647,2.023L12.354,2.023C12.954,2.023 13.442,2.504 13.442,3.099L13.442,12.902C13.442,13.496 12.954,13.978 12.354,13.978L3.647,13.978C3.046,13.978 2.559,13.496 2.559,12.902L2.559,3.099C2.559,2.504 3.046,2.023 3.647,2.023ZM6.64,10.989L5.279,9.793L5.279,12.185L6.64,10.989ZM9.512,12.185L9.512,8.614C9.506,8.335 9.37,8 8.756,8C7.526,8 6.147,8.612 6.134,8.618L5.279,9L5.279,3.816L6.489,3.816L6.489,7.21C7.092,7.016 7.936,6.805 8.756,6.805C9.503,6.805 9.951,7.095 10.195,7.339C10.715,7.859 10.722,8.521 10.721,8.598L10.721,12.185L9.512,12.185ZM8.605,5.759L9.814,5.759C10.361,5.146 10.639,4.495 10.721,3.816L9.512,3.816C9.378,4.494 9.08,5.142 8.605,5.759Z" style="fill:rgb(102,102,102);"/>
+        </g>
+    </g>
+</svg>

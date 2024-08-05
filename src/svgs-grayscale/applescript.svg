@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="applescript">
+        <g id="Group-2" serif:id="Group 2">
+            <circle id="Ellipse" cx="8" cy="8" r="6" style="fill:rgb(57,57,57);"/>
+            <g id="Group">
+                <path id="ï--" serif:id="ï£¿" d="M9.07,5.099C8.825,5.413 8.396,5.65 8,5.603C7.915,5.196 8.151,4.788 8.372,4.528C8.653,4.214 9.098,4 9.482,4C9.506,4.408 9.351,4.808 9.07,5.099Z" style="fill:rgb(206,206,206);"/>
+                <path id="Path" d="M9.445,5.693C9.702,5.693 10.388,5.767 10.812,6.388C10.78,6.407 10,6.819 10,7.731C10.037,8.771 10.984,9.136 11,9.136C10.984,9.156 10.857,9.633 10.482,10.134C10.184,10.565 9.853,11 9.351,11C8.874,11 8.702,10.713 8.151,10.713C7.559,10.713 7.392,11 6.939,11C6.437,11 6.082,10.542 5.768,10.115C5.36,9.556 5.013,8.678 5.001,7.836C4.992,7.389 5.082,6.951 5.311,6.578C5.633,6.058 6.209,5.704 6.837,5.693C7.319,5.677 7.747,6.007 8.041,6.007C8.323,6.007 8.849,5.693 9.445,5.693Z" style="fill:rgb(206,206,206);"/>
+            </g>
+        </g>
+    </g>
+</svg>

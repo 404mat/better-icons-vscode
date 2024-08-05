@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="dart">
+        <g id="dart_2">
+            <path id="Shape" d="M8.325,2.308C8.191,2.308 8.057,2.36 7.954,2.461C7.952,2.463 7.95,2.463 7.948,2.465L4.471,4.475L7.939,7.944L7.939,7.946L12.109,12.116L12.904,10.684L10.038,3.802L8.7,2.465C8.596,2.361 8.461,2.308 8.325,2.308L8.325,2.308Z" style="fill:rgb(179,179,179);fill-rule:nonzero;"/>
+            <path id="Shape_2" d="M4.479,4.467L2.47,7.942C2.468,7.943 2.467,7.945 2.466,7.947C2.365,8.05 2.312,8.186 2.312,8.319C2.312,8.455 2.365,8.589 2.469,8.693L4.134,10.36L10.647,12.922L12.12,12.104L12.08,12.065L12.07,12.066L7.987,7.976L7.982,7.976L4.479,4.467L4.479,4.467Z" style="fill:rgb(102,102,102);fill-rule:nonzero;"/>
+            <path id="Shape_3" d="M4.47,4.469L8.019,8.021L8.024,8.021L12.108,12.11L13.663,11.813L13.665,7.214L12.023,5.605C11.664,5.252 11.111,5.025 10.556,4.95L10.557,4.933L4.47,4.469L4.47,4.469Z" style="fill:rgb(102,102,102);fill-rule:nonzero;"/>
+            <path id="Shape_4" d="M4.474,4.473L8.025,8.023L8.025,8.028L12.112,12.115L11.814,13.669L7.215,13.669L5.607,12.027C5.254,11.667 5.027,11.114 4.953,10.559L4.935,10.56L4.475,4.473L4.474,4.473Z" style="fill:rgb(179,179,179);fill-rule:nonzero;"/>
+        </g>
+    </g>
+</svg>

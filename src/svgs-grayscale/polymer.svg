@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="polymer">
+        <path id="Combined-Shape" serif:id="Combined Shape" d="M9.687,3.02L8.25,5.507L11.13,5.507L12.574,3.02L9.687,3.02ZM8.25,5.507L6.807,8L6.807,8L5.37,10.493L8.25,10.493L9.687,8L9.687,8L11.13,5.507L8.25,5.507ZM3.926,12.98L6.807,12.98L8.25,10.493L5.37,10.493L3.926,12.98Z" style="fill:rgb(121,121,121);"/>
+        <path id="Combined-Shape_2" serif:id="Combined Shape_2" d="M2.49,5.507L3.926,3.02L6.807,3.02L5.37,5.507L2.49,5.507ZM2.49,5.507L1.046,8L2.49,10.493L5.37,10.493L3.926,8L5.37,5.507L2.49,5.507ZM3.926,12.98L5.37,10.493L2.49,10.493L3.926,12.98Z" style="fill:rgb(192,192,192);"/>
+        <path id="Combined-Shape_3" serif:id="Combined Shape_3" d="M14.01,5.507L12.574,3.02L11.13,5.507L14.01,5.507ZM14.011,5.507L15.454,8L14.01,10.493L11.13,10.493L12.574,8L11.13,5.507L14.011,5.507ZM11.13,10.493L9.693,12.98L12.574,12.98L14.01,10.493L11.13,10.493Z" style="fill:rgb(192,192,192);"/>
+    </g>
+</svg>

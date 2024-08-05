@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="gitlab">
+        <g id="Group">
+            <path id="Shape" d="M8.004,13.457L10.211,6.728L5.796,6.728L8.004,13.457Z" style="fill:rgb(139,139,139);fill-rule:nonzero;"/>
+            <path id="Shape_2" d="M8.004,13.457L5.796,6.728L2.701,6.728L8.004,13.457Z" style="fill:rgb(183,183,183);fill-rule:nonzero;"/>
+            <path id="Shape_3" d="M2.701,6.729L2.03,8.773C1.969,8.96 2.036,9.164 2.196,9.279L8.004,13.457L2.701,6.729Z" style="fill:rgb(182,182,182);fill-rule:nonzero;"/>
+            <path id="Shape_4" d="M2.701,6.728L5.796,6.728L4.466,2.676C4.397,2.467 4.099,2.467 4.031,2.676L2.701,6.728Z" style="fill:rgb(139,139,139);fill-rule:nonzero;"/>
+            <path id="Shape_5" d="M8.004,13.457L10.211,6.728L13.306,6.728L8.004,13.457Z" style="fill:rgb(183,183,183);fill-rule:nonzero;"/>
+            <path id="Shape_6" d="M13.306,6.729L13.977,8.773C14.038,8.96 13.971,9.164 13.811,9.279L8.004,13.457L13.306,6.729Z" style="fill:rgb(182,182,182);fill-rule:nonzero;"/>
+            <path id="Shape_7" d="M13.306,6.728L10.211,6.728L11.541,2.676C11.61,2.467 11.908,2.467 11.976,2.676L13.306,6.728Z" style="fill:rgb(139,139,139);fill-rule:nonzero;"/>
+        </g>
+    </g>
+</svg>

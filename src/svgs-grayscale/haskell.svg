@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="haskell">
+        <g id="Group">
+            <path id="Vector" d="M4.824,12.5L7.647,8L4.824,3.5L6.941,3.5L12.588,12.5L10.471,12.5L8.706,9.688L6.941,12.5L4.824,12.5ZM11.647,9.875L10.706,8.375L14,8.375L14,9.875L11.647,9.875ZM10.235,7.625L9.294,6.125L14,6.125L14,7.625L10.235,7.625Z" style="fill:rgb(145,145,145);fill-rule:nonzero;"/>
+            <path id="Vector_2" d="M4.824,8L2,12.5L4.118,12.5L6.941,8L4.118,3.5L2,3.5L4.824,8Z" style="fill:rgb(121,121,121);fill-rule:nonzero;"/>
+        </g>
+    </g>
+</svg>

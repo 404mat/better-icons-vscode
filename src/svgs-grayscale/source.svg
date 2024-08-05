@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="source">
+        <g id="code">
+            <path id="Shape" d="M4.727,10.953L2.16,8.386C1.947,8.172 1.947,7.828 2.16,7.614L4.727,5.047L5.499,5.818L3.317,8L5.499,10.182L4.727,10.953Z" style="fill:rgb(139,139,139);fill-rule:nonzero;"/>
+            <path id="Shape_2" d="M11.273,10.953L10.501,10.182L12.683,8L10.501,5.818L11.273,5.047L13.84,7.614C14.053,7.828 14.053,8.172 13.84,8.386L11.273,10.953Z" style="fill:rgb(139,139,139);fill-rule:nonzero;"/>
+            <g id="Rectangle-path" transform="matrix(0.242701,-0.970101,0.970101,0.242701,-7.64794,15.7238)">
+                <rect x="6.247" y="12.76" width="10.087" height="1.091" style="fill:rgb(163,163,163);"/>
+            </g>
+        </g>
+    </g>
+</svg>

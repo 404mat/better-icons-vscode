@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="exe">
+        <g id="app">
+            <path id="Shape" d="M8,6.309L12.895,4.127L8.22,2.055C8.055,2 7.89,2 7.78,2.055L3.105,4.127L8,6.309Z" style="fill:rgb(192,192,192);fill-rule:nonzero;"/>
+            <path id="Shape_2" d="M8.55,7.236L8.55,13.782L13.17,11.764C13.39,11.655 13.5,11.491 13.5,11.273L13.5,5.055L8.55,7.236Z" style="fill:rgb(151,151,151);fill-rule:nonzero;"/>
+            <path id="Shape_3" d="M7.45,7.236L2.5,5.055L2.5,11.273C2.5,11.491 2.61,11.709 2.83,11.764L7.45,13.782L7.45,7.236Z" style="fill:rgb(151,151,151);fill-rule:nonzero;"/>
+        </g>
+    </g>
+</svg>

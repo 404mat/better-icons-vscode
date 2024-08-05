@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="matlab">
+        <path id="Shape" d="M4.878,7.5L2,8.505L4.225,10L6,8.331L4.877,7.5L4.878,7.5Z" style="fill:rgb(163,163,163);fill-rule:nonzero;"/>
+        <path id="Shape_2" d="M10.189,2.805C9.931,2.839 10.266,2.52 9.895,2.805C9.54,3.078 8.517,4.703 7.971,5.25C7.484,5.736 7.291,5.48 6.786,5.886C6.28,6.293 5.5,7.105 5.5,7.105L6.761,8L8.759,5.362C9.231,4.74 9.226,4.658 9.483,4.004C9.609,3.685 9.833,3.439 10.03,3.138C10.276,2.762 10.36,2.783 10.189,2.805Z" style="fill:rgb(159,159,159);fill-rule:nonzero;"/>
+        <path id="Shape_3" d="M10.181,2.5C9.598,2.496 9.024,5.063 8.026,7.032C7.009,9.04 5,10.334 5,10.334C5.339,10.488 5.647,10.426 6.012,10.771C6.261,11.073 6.983,12.564 7.414,13.5C7.414,13.5 7.767,13.308 8.216,12.983C8.664,12.658 9.206,12.2 9.584,11.67C10.086,10.966 10.478,10.53 10.81,10.264C11.142,9.999 11.414,9.903 11.676,9.881C12.613,9.8 14,11.483 14,11.483C14,11.483 11.097,2.506 10.181,2.5L10.181,2.5Z" style="fill:rgb(139,139,139);fill-rule:nonzero;"/>
+    </g>
+</svg>

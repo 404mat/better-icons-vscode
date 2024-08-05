@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="favicon">
+        <g id="shape-star">
+            <path id="Shape" d="M13.572,6.271L10.032,5.756L8.45,2.55C8.356,2.391 8.186,2.294 8.002,2.294C7.817,2.294 7.647,2.391 7.553,2.55L5.969,5.756L2.428,6.271C2.24,6.298 2.083,6.43 2.024,6.61C1.965,6.791 2.014,6.99 2.15,7.123L4.713,9.62L4.108,13.147C4.076,13.334 4.153,13.524 4.307,13.636C4.461,13.747 4.665,13.762 4.834,13.674L8,12.009L11.166,13.674C11.335,13.762 11.539,13.747 11.693,13.636C11.847,13.524 11.924,13.334 11.892,13.147L11.288,9.62L13.85,7.123C13.986,6.99 14.035,6.792 13.976,6.611C13.918,6.43 13.761,6.298 13.573,6.271L13.572,6.271Z" style="fill:rgb(183,183,183);fill-rule:nonzero;"/>
+        </g>
+    </g>
+</svg>

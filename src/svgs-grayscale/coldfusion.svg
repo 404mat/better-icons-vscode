@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g id="coldfusion">
+        <path id="Shape" d="M8,2C11.314,2 14,4.686 14,8C14,11.314 11.314,14 8,14C4.686,14 2,11.314 2,8C2,4.686 4.686,2 8,2Z" style="fill:rgb(41,41,41);fill-rule:nonzero;stroke:rgb(201,201,201);stroke-width:1px;"/>
+        <path id="Cf" d="M7.104,9.761C8.012,9.761 8.662,9.209 8.703,8.372L7.841,8.372C7.785,8.784 7.5,9.043 7.106,9.043C6.613,9.043 6.306,8.626 6.306,7.935C6.306,7.251 6.616,6.834 7.104,6.834C7.497,6.834 7.792,7.107 7.836,7.522L8.698,7.522C8.671,6.69 7.995,6.116 7.104,6.116C6.054,6.116 5.393,6.787 5.393,7.937C5.393,9.09 6.049,9.761 7.104,9.761ZM9.282,9.7L10.148,9.7L10.148,7.678L10.642,7.678L10.642,7.061L10.124,7.061L10.124,6.946C10.124,6.792 10.224,6.699 10.461,6.699C10.529,6.699 10.602,6.707 10.651,6.714L10.651,6.177C10.556,6.157 10.385,6.14 10.231,6.14C9.536,6.14 9.282,6.382 9.282,6.907L9.282,7.061L8.928,7.061L8.928,7.678L9.282,7.678L9.282,9.7Z" style="fill:white;fill-rule:nonzero;"/>
+    </g>
+</svg>

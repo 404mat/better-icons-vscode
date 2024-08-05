@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="table">
+        <g id="layout-25">
+            <path id="Shape" d="M14,6L2,6L2,3C2,2.724 2.224,2.5 2.5,2.5L13.5,2.5C13.776,2.5 14,2.724 14,3L14,6Z" style="fill:rgb(179,179,179);fill-rule:nonzero;"/>
+            <path id="Shape_2" d="M5.5,13.5L2.5,13.5C2.224,13.5 2,13.276 2,13L2,7L5.5,7L5.5,13.5Z" style="fill:rgb(179,179,179);fill-rule:nonzero;"/>
+            <path id="Shape_3" d="M13.5,13.5L6.5,13.5L6.5,7L14,7L14,13C14,13.276 13.776,13.5 13.5,13.5Z" style="fill:rgb(210,210,210);fill-rule:nonzero;"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="todo">
+        <path id="Shape" d="M6.2,11.5C6.041,11.5 5.888,11.436 5.776,11.322L2.176,7.679C1.941,7.442 1.941,7.058 2.176,6.821C2.41,6.584 2.79,6.584 3.024,6.821L6.2,10.034L12.976,3.178C13.21,2.941 13.59,2.941 13.824,3.178C14.059,3.415 14.059,3.799 13.824,4.036L6.624,11.322C6.512,11.436 6.359,11.5 6.2,11.5Z" style="fill:rgb(121,121,121);"/>
+    </g>
+</svg>

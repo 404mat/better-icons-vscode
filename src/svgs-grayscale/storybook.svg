@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="storybook">
+        <path id="Subtract" d="M4.776,13.167L4.282,2.917L10.461,2.47L10.294,4.047L11.249,3.538L12.044,4.047L12.044,2.357L11.972,2.361L12.353,2.333L12.353,13.542L4.776,13.167ZM9.003,6.72L10.594,6.68C10.633,5.12 9.833,4.35 8.44,4.35C7.046,4.35 6.265,5.15 6.265,6.35C6.265,7.552 7.148,8.076 7.898,8.521C8.452,8.85 8.934,9.136 8.934,9.62C8.934,9.94 8.785,10.13 8.459,10.13C8.034,10.13 7.866,9.85 7.886,9.07L6.216,9.07C6.088,11 7.204,11.44 8.479,11.44C9.714,11.44 10.683,10.86 10.683,9.6C10.683,8.285 9.75,7.763 8.98,7.331C8.437,7.027 7.975,6.769 7.975,6.31C7.975,5.86 8.291,5.8 8.479,5.8C8.677,5.8 9.032,5.88 9.003,6.72Z" style="fill:rgb(162,162,162);"/>
+    </g>
+</svg>

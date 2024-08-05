@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <path d="M6.551,7.974L8.745,7.974L7.578,5.509L6.551,7.974ZM2.752,3.719C2.312,3.876 2.039,4.316 2.095,4.78L2.821,10.877C2.859,11.195 3.048,11.476 3.329,11.632L7.1,13.729C7.403,13.897 7.772,13.897 8.075,13.727L11.874,11.597C12.153,11.441 12.34,11.161 12.378,10.843L13.105,4.751C13.16,4.284 12.884,3.842 12.44,3.688L7.914,2.115C7.699,2.041 7.465,2.042 7.251,2.118L2.752,3.719ZM9.948,10.779L9.19,9.01L6.097,9.01L5.405,10.779L4.118,10.779L7.569,3.019L11.141,10.779L9.948,10.779Z" style="fill:rgb(121,121,121);fill-rule:nonzero;"/>
+    <g id="c-carved" serif:id="c carved" transform="matrix(0.368227,0,0,0.368227,5.64343,-0.011195)">
+        <g transform="matrix(12,0,0,12,20.9207,13.153)">
+        </g>
+        <text x="12.255px" y="13.153px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:rgb(66,66,66);stroke:rgb(65,65,65);stroke-width:1.36px;">R</text>
+    </g>
+    <g transform="matrix(0.368227,0,0,0.368227,5.64343,-0.011195)">
+        <g transform="matrix(12,0,0,12,20.9207,13.153)">
+        </g>
+        <text x="12.255px" y="13.153px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:rgb(157,157,157);">R</text>
+    </g>
+</svg>

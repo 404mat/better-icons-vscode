@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="image">
+        <g id="Group">
+            <g>
+                <rect id="Rectangle_2" x="1.75" y="3" width="12.5" height="10" style="fill:rgb(163,163,163);"/>
+                <path id="Vector-2" serif:id="Vector 2" d="M11.563,8L4.25,14.25L14.938,13.804L15.5,9.786L11.563,8Z" style="fill:rgb(78,78,78);fill-rule:nonzero;"/>
+                <path id="Vector" d="M5.396,8.208C6.259,8.208 6.958,7.509 6.958,6.646C6.958,5.783 6.259,5.083 5.396,5.083C4.533,5.083 3.833,5.783 3.833,6.646C3.833,7.509 4.533,8.208 5.396,8.208Z" style="fill:white;fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+</svg>

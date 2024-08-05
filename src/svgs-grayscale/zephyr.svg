@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="zephyr">
+        <g id="Page-1" serif:id="Page 1">
+            <path id="Fill-1" serif:id="Fill 1" d="M7.401,2L2.079,8.646C1.752,9.054 1.795,9.644 2.176,10.001L6.432,13.982L7.401,2Z" style="fill:rgb(95,95,95);"/>
+            <path id="Fill-2" serif:id="Fill 2" d="M7.401,2L6.432,13.982L13.318,9.956C13.876,9.629 13.982,8.867 13.535,8.401L7.401,2Z" style="fill:rgb(162,162,162);"/>
+        </g>
+    </g>
+</svg>

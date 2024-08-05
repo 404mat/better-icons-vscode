@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="zip">
+        <path id="Shape" d="M12.167,3L8.417,3L8.417,5.083L9.667,5.083L9.667,8L6.333,8L6.333,5.083L7.583,5.083L7.583,3L3.833,3C3.603,3 3.417,3.186 3.417,3.417L3.417,12.583C3.417,12.814 3.603,13 3.833,13L12.167,13C12.397,13 12.583,12.814 12.583,12.583L12.583,3.417C12.583,3.186 12.397,3 12.167,3ZM8.833,11.333L7.167,11.333L7.167,10.5L8.833,10.5L8.833,11.333ZM7.167,9.667L8.833,9.667L8.833,8.833L7.167,8.833L7.167,9.667Z" style="fill:rgb(95,95,95);"/>
+        <rect id="Rectangle-path" x="7.167" y="5.917" width="1.667" height="1.25" style="fill:rgb(162,162,162);"/>
+    </g>
+</svg>
