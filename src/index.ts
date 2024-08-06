@@ -9,7 +9,7 @@ import { Colors, Grayscale } from './themeScheme';
 const writeTheme = (scheme: object, name: string) => {
 	fs.writeFile(
 		// Pass the theme output path and filename
-		`${paths.build}/moxer-icons-${name}.json`,
+		`${paths.build}/better-icons-${name}.json`,
 		// Pass the icon theme scheme
 		JSON.stringify(scheme, null, 3),
 		(err) => {
@@ -17,7 +17,7 @@ const writeTheme = (scheme: object, name: string) => {
 				console.error(err);
 				return;
 			}
-			console.log(`Moxer Icons ${name} has been generated`);
+			console.log(`${name} icons has been generated`);
 		},
 	);
 };

@@ -3,7 +3,7 @@ import { paths } from './paths';
 
 /**
  * Define the Icon object constructor
- * to build the icon object schema
+ * to build the icon objects schemas
  * required by the theme
  * @param path {String} is the filename path
  */
@@ -40,7 +40,6 @@ const iconsListColors: string[] = fs.readdirSync(paths.svgs).map((icon) => {
 	if (icon.match(/\.svg$/i)) {
 		return removeFileExtension(icon);
 	}
-
 	return '';
 });
 const iconsListGrayscale: string[] = fs
